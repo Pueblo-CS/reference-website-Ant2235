@@ -5,3 +5,7 @@ body {
 p {
     font-size: large;
 }
+h1 {
+    font-style: italic;
+    color: aliceblue;
+}
